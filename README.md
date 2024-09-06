@@ -31,7 +31,7 @@ This project is a React.js (Vite) web application that allows users to visualize
 
 ```bash
 
-git clone https://github.com/neeraj542/sorting-visualizer-react-javascript
+git clone https://github.com/neeraj542/sorting-visualizer-react-javascript.git
 
 ```
 
